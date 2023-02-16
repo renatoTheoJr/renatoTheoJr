@@ -18,8 +18,7 @@ https://github.com/renatoTheoJr/ignews, Esse projeto foi realizado em um curso d
 https://github.com/renatoTheoJr/moveit-next, Esse projeto foi desenvolvido em React com Typescript no qual tem objetivo de incentivar exercícios físicos.
 
 ## Contact
-
-Meu email é renatotheojunior@gmail.com e meu linkedin https://www.linkedin.com/in/renatotheodoro/
+linkedin https://www.linkedin.com/in/renatotheodoro/
 
 ### Enjoy the search :smile:
 
